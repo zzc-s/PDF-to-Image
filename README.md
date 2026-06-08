@@ -39,7 +39,7 @@
 ## 手动运行
 
 
-
+PS:上面“快速开始”是根据自身C盘中的python3.12解释器运行的,如果不是的话建议手动在终端运行
 ```bash
 
 pip install -r requirements.txt
